@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Memoria</string>
+    <string name="reinciar">Reiniciar</string>
+    <string name="botao1">1</string>
+    <string name="botao2">2</string>
+    <string name="botao3">3</string>
+    <string name="botao4">4</string>
+    <string name="botao5">5</string>
+    <string name="botao6">6</string>
+    <string name="progresso">0/6</string>
+    <string name ="parabens1">Parabéns!</string>
+    <string name ="parabens2">Você tem uma boa memória!</string>
+</resources>
