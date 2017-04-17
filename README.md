@@ -10,7 +10,9 @@ Exemplo de sequência:
 </pre>
 
 Ao acertar o próximo numero da sequência, o fundo da tela fica da cor do botão que foi pressionado:
-![alt tag](https://github.com/jpdik/Jogo_Memoria_Android/blob/master/Samples/acertou.png?raw=true)
+<p align="center">
+  <img src="https://github.com/jpdik/Jogo_Memoria_Android/blob/master/Samples/acertou.png?raw=true" width="350"/>
+</p>
 
 Caso o jogador erre um dos números da sequência, o jogo é reiniciado e o jogador
 terá que se lembrar de toda sequência que estava correta:
