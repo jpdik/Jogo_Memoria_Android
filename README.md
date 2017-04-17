@@ -1,6 +1,8 @@
 # Jogo_Memoria_Android
 Jogo de memória feito no Android Studio para aprendizagem.
 
+Baixe o apk de exemplo <a href="https://github.com/jpdik/Jogo_Memoria_Android/blob/master/Samples/memoria.apk?raw=true">aqui</a>.
+
 O objetivo foi programar pra que cada vez que o jogo for reiniciado, o jogador terá
 que descobrir a nova sequência de números de 1 a 6 gerada pelo programa.
 
