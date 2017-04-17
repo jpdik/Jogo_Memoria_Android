@@ -11,15 +11,19 @@ Exemplo de sequência:
 
 Ao acertar o próximo numero da sequência, o fundo da tela fica da cor do botão que foi pressionado:
 <p align="center">
-  <img src="https://github.com/jpdik/Jogo_Memoria_Android/blob/master/Samples/acertou.png?raw=true" width="350"/>
+  <img src="https://github.com/jpdik/Jogo_Memoria_Android/blob/master/Samples/acertou.png?raw=true" width="150"/>
 </p>
 
 Caso o jogador erre um dos números da sequência, o jogo é reiniciado e o jogador
 terá que se lembrar de toda sequência que estava correta:
-![alt tag](http://url/to/img.png)
+<p align="center">
+  <img src="https://github.com/jpdik/Jogo_Memoria_Android/blob/master/Samples/errou.png?raw=true" width="150"/>
+</p>
 
 
 Assim que o jogador acertar toda sequência, ele ganha o jogo:
-![alt tag](http://url/to/img.png)
+<p align="center">
+  <img src="https://github.com/jpdik/Jogo_Memoria_Android/blob/master/Samples/venceu.png?raw=true" width="150"/>
+</p>
 
 Caso o jogador clique em reiniciar, o programa irá criar uma nova sequência de números.
