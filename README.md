@@ -1,5 +1,5 @@
 # Jogo_Memoria_Android
-Jogo de memória feito no Android Studio para aprendizagem.
+Jogo de memória feito no Android Studio para aprendizagem
 
 Baixe o apk de exemplo <a href="https://github.com/jpdik/Jogo_Memoria_Android/blob/master/Samples/memoria.apk?raw=true">aqui</a>.
 
